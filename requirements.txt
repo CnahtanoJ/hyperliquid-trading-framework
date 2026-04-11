@@ -1,0 +1,7 @@
+hyperliquid-python-sdk
+pandas
+numpy
+boto3
+requests
+python-dotenv
+eth-account
